@@ -1,4 +1,4 @@
-# I'm using this to learn about matplotlib
+# I'm playing with this to learn about the use of matplotlib
 # Copied from https://www.reddit.com/r/learnpython/comments/ep2xb8/rave_finally_able_to_prove_the_value_of_python/
 
 # importing libraries

@@ -23,4 +23,5 @@ def get_all_links(webpage):
             print('Link found: ' + str(href))
 
 
+# Site made for webscraping
 get_all_links('http://shop.demoqa.com/')

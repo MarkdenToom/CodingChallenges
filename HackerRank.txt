@@ -1,1 +1,0 @@
-Avoid HackerRank as the inputs are confusing and many of the challenges are poorly written.
